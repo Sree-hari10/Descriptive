@@ -1,2 +1,0 @@
-# Descriptive
-Basics of Python
